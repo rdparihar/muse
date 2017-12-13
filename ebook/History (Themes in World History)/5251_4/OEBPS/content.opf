@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="">2014-12-23</dc:date>
+    <dc:language>en-GB</dc:language>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-11-06</dc:date>
+    <meta content="Adobe InDesign" name="generator" />
+    <meta property="dcterms:modified">2014-12-23T12:00:00Z</meta>
+    <meta content="0.8.2" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item href="Text/Untitled-1.xhtml" id="Untitled-1" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/Chapter_3.css" id="Chapter_3.css" media-type="text/css" />
+    <item href="Fonts/Arial-BoldMT.TTF" id="Arial-BoldMT.TTF" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/Arial-ItalicMT.TTF" id="Arial-ItalicMT.TTF" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/ArialMT.ttf" id="ArialMT.ttf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/Bookman-Demi.TTF" id="Bookman-Demi.TTF" media-type="application/x-font-ttf" />
+    <item href="Misc/Bookman-Light.PFB" id="Bookman-Light.PFB" media-type="application/x-font-type1" />
+    <item href="Misc/Bookman-LightItalic.PFB" id="Bookman-LightItalic.PFB" media-type="application/x-font-type1" />
+    <item href="Fonts/BookmanOldStyle.TTF" id="BookmanOldStyle.TTF" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/StoneInformal-Italic.TTF" id="StoneInformal-Italic.TTF" media-type="application/x-font-ttf" />
+    <item href="Fonts/TimesNewRomanPS-BoldMT.ttf" id="TimesNewRomanPS-BoldMT.ttf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/TimesNewRomanPSMT.ttf" id="TimesNewRomanPSMT.ttf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/Trajax.TTF" id="Trajax.TTF" media-type="application/x-font-ttf" />
+    <item href="Images/5301.png" id="x5301.png" media-type="image/png" />
+    <item href="Images/5926.png" id="x5926.png" media-type="image/png" />
+    <item href="Images/6458.png" id="x6458.png" media-type="image/png" />
+    <item href="Images/6595.png" id="x6595.png" media-type="image/png" />
+    <item href="Images/6915.png" id="x6915.png" media-type="image/png" />
+    <item href="Images/6Arrt01_fmt.jpeg" id="x6Arrt01_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/6Arrt02_fmt.jpeg" id="x6Arrt02_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/6Arrt04_fmt.jpeg" id="x6Arrt04_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/6Arrt06_fmt.jpeg" id="x6Arrt06_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/6Arrt07_fmt.jpeg" id="x6Arrt07_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/6Arrt08_fmt.jpeg" id="x6Arrt08_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/6Arrt11_fmt.jpeg" id="x6Arrt11_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/6Arrt13_fmt.jpeg" id="x6Arrt13_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/6Arrt14_fmt.jpeg" id="x6Arrt14_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/7Arrt03_fmt.jpeg" id="x7Arrt03_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/7Arrt03_fmt1.jpeg" id="x7Arrt03_fmt1.jpeg" media-type="image/jpeg" />
+    <item href="Images/7Arrt04_fmt.jpeg" id="x7Arrt04_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/7Arrt06_fmt.jpeg" id="x7Arrt06_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/7Arrt07_fmt.jpeg" id="x7Arrt07_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/7Arrt10_fmt.jpeg" id="x7Arrt10_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/7Arrt11_fmt.jpeg" id="x7Arrt11_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/7Arrt12_fmt.jpeg" id="x7Arrt12_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/7Arrt13_fmt.jpeg" id="x7Arrt13_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/7Arrt15_fmt.jpeg" id="x7Arrt15_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/7Arrt18_fmt.jpeg" id="x7Arrt18_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/7Arrt19_fmt.jpeg" id="x7Arrt19_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/8Arrt02a_fmt.jpeg" id="x8Arrt02a_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/8Arrt04_fmt.jpeg" id="x8Arrt04_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/8Arrt06_fmt.png" id="x8Arrt06_fmt.png" media-type="image/png" />
+    <item href="Images/8Arrt07_fmt.png" id="x8Arrt07_fmt.png" media-type="image/png" />
+    <item href="Images/8Arrt09%20B_fmt.jpeg" id="x8Arrt09-B_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/8Arrt12a_fmt.jpeg" id="x8Arrt12a_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/8Arrt13_fmt.jpeg" id="x8Arrt13_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/ArrtArricanQueen_fmt.jpeg" id="ArrtArricanQueen_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/ArrtBoatr_fmt.jpeg" id="ArrtBoatr_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/ArrtBomarang_fmt.jpeg" id="ArrtBomarang_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/ArrtCone_fmt.jpeg" id="ArrtCone_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/ArrtElephant_fmt.jpeg" id="ArrtElephant_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/ArrtKipu_fmt.jpeg" id="ArrtKipu_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/Arrtrat_fmt.jpeg" id="Arrtrat_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/Cathedral%2C%20Salisbury_fmt.jpeg" id="Cathedral--Salisbury_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/P133t_fmt.jpeg" id="P133t_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/P136_fmt.jpeg" id="P136_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/P153_fmt.jpeg" id="P153_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/P169t_fmt.jpeg" id="P169t_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/P172t_fmt.jpeg" id="P172t_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/P183t_fmt.jpeg" id="P183t_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/St.%20Michael%27s%20Abbey%2C_fmt.jpeg" id="St.-Michael-s-Abbey-_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/td.png" id="td.png" media-type="image/png" />
+    <item href="Images/td2.png" id="td2.png" media-type="image/png" />
+    <item href="Images/td3.png" id="td3.png" media-type="image/png" />
+    <item href="Images/eh.png" id="eh.png" media-type="image/png" />
+    <item href="Images/1112.png" id="x1112.png" media-type="image/png" />
+    <item href="Images/nm.png" id="nm.png" media-type="image/png" />
+    <item href="Images/ffc.png" id="ffc.png" media-type="image/png" />
+    <item href="Images/ssc.png" id="ssc.png" media-type="image/png" />
+    <item href="Images/vbe.png" id="vbe.png" media-type="image/png" />
+    <item href="Images/9Arrt02_fmt.jpeg" id="x9Arrt02_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/9Arrt03_fmt.jpeg" id="x9Arrt03_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/9Arrt04_fmt.jpeg" id="x9Arrt04_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/9Arrt05_fmt.jpeg" id="x9Arrt05_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/9Arrt06_fmt.jpeg" id="x9Arrt06_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/9Arrt10_fmt.jpeg" id="x9Arrt10_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/9Arrt11_fmt.png" id="x9Arrt11_fmt.png" media-type="image/png" />
+    <item href="Images/9Arrt12_fmt.jpeg" id="x9Arrt12_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/9Arrt13_fmt.jpeg" id="x9Arrt13_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/9ArrtPilot_fmt.jpeg" id="x9ArrtPilot_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/10Arrt01_fmt.jpeg" id="x10Arrt01_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/10Arrt04_fmt.jpeg" id="x10Arrt04_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/10Arrt05_fmt.jpeg" id="x10Arrt05_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/10Arrt06_fmt.jpeg" id="x10Arrt06_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/11Arrt02_fmt.jpeg" id="x11Arrt02_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/11Arrt03_fmt.jpeg" id="x11Arrt03_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/11Arrt05_fmt.jpeg" id="x11Arrt05_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/11Arrt06_fmt.jpeg" id="x11Arrt06_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/11Arrt07a_fmt.jpeg" id="x11Arrt07a_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/11Arrt08_fmt.jpeg" id="x11Arrt08_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/11Arrt11_fmt.jpeg" id="x11Arrt11_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/11Arrt12_fmt.jpeg" id="x11Arrt12_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/11Arrt13_fmt.jpeg" id="x11Arrt13_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/11Arrt14_fmt.png" id="x11Arrt14_fmt.png" media-type="image/png" />
+    <item href="Images/11Arrt15a_fmt.jpeg" id="x11Arrt15a_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/11Arrt16a_fmt.jpeg" id="x11Arrt16a_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/11Arrt17_fmt.jpeg" id="x11Arrt17_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/11Arrt17_fmt1.jpeg" id="x11Arrt17_fmt1.jpeg" media-type="image/jpeg" />
+    <item href="Images/11Arrt18_fmt.png" id="x11Arrt18_fmt.png" media-type="image/png" />
+    <item href="Images/1857_fmt.jpeg" id="x1857_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/AfricanSlavesTransport_fmt.jpeg" id="AfricanSlavesTransport_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/ArrtAtom_fmt.jpeg" id="ArrtAtom_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/ArrtFirst_IndianNation_fmt.jpeg" id="ArrtFirst_IndianNation_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/ArrtGandhi_fmt.jpeg" id="ArrtGandhi_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/ArrtJapnes_fmt.jpeg" id="ArrtJapnes_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/ArrtNehPatel_fmt.jpeg" id="ArrtNehPatel_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/ArrtNelson_fmt.jpeg" id="ArrtNelson_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/ArrtRanjit_fmt.jpeg" id="ArrtRanjit_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/ArrtSculpture_fmt.jpeg" id="ArrtSculpture_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/ArrtShekhawati2_fmt.jpeg" id="ArrtShekhawati2_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/ArrtTrain_fmt.jpeg" id="ArrtTrain_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/bandarnaike_fmt.jpeg" id="bandarnaike_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/braille_fmt.png" id="braille_fmt.png" media-type="image/png" />
+    <item href="Images/Cola_fmt.jpeg" id="Cola_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/cooks-voyage-larger_fmt.jpeg" id="cooks-voyage-larger_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/guillotine2_fmt.jpeg" id="guillotine2_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/Gujin_fmt.jpeg" id="Gujin_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/Illust1tif_fmt.jpeg" id="Illust1tif_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/Illust2tif_fmt.jpeg" id="Illust2tif_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/Illust3tif_fmt.jpeg" id="Illust3tif_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/Lenius_fmt.jpeg" id="Lenius_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/Mandela_fmt.jpeg" id="Mandela_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/Opeum_fmt.jpeg" id="Opeum_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/P199t_fmt.jpeg" id="P199t_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/P201t_fmt.jpeg" id="P201t_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/P219t_fmt.jpeg" id="P219t_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/P227t_fmt.jpeg" id="P227t_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/P233t_fmt.jpeg" id="P233t_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/Plassy_fmt.jpeg" id="Plassy_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/search%20of%20gold_fmt.jpeg" id="search_of_gold_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/Simon_Bolivar_fmt.jpeg" id="Simon_Bolivar_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/Suezcanal_fmt.jpeg" id="Suezcanal_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/theme11_3%20sa_fmt.jpeg" id="theme11_3_sa_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/western%20ranch%20house%20_fmt.jpeg" id="western_ranch_house__fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/t1.jpg" id="t1.jpg" media-type="image/jpeg" />
+    <item href="Images/t2.jpg" id="t2.jpg" media-type="image/jpeg" />
+    <item href="Images/t3.jpg" id="t3.jpg" media-type="image/jpeg" />
+    <item href="Images/t4.jpg" id="t4.jpg" media-type="image/jpeg" />
+    <item href="Images/t5.jpg" id="t5.jpg" media-type="image/jpeg" />
+    <item href="Images/t6.jpg" id="t6.jpg" media-type="image/jpeg" />
+    <item href="Images/aq.png" id="aq.png" media-type="image/png" />
+    <item href="Images/cu221.png" id="cu221.png" media-type="image/png" />
+    <item href="Images/cau.png" id="cau.png" media-type="image/png" />
+    <item href="Images/act2.png" id="act2.png" media-type="image/png" />
+    <item href="Images/wert.png" id="wert.png" media-type="image/png" />
+    <item href="Images/da.png" id="da.png" media-type="image/png" />
+    <item href="Images/wqe.png" id="wqe.png" media-type="image/png" />
+    <item href="Images/tjc.png" id="tjc.png" media-type="image/png" />
+    <item href="Text/Cover.xhtml" id="Cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/kehs1cc.jpg" id="kehs1cc.jpg" media-type="image/jpeg" />
+    <item href="Images/License.jpg" id="License.jpg" media-type="image/jpeg" />
+    <item href="Images/Cover.png" id="Cover.png" media-type="image/png" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Cover.xhtml" />
+    <itemref idref="Untitled-1" />
+  </spine>
+  <guide />
+</package>
