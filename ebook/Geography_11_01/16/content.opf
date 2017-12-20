@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="">2014-12-24</dc:date>
+    <dc:language>en</dc:language>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-09-22</dc:date>
+    <meta content="Adobe InDesign" name="generator" />
+    <meta property="dcterms:modified">2014-12-24T12:00:00Z</meta>
+    <meta content="0.8.2" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item href="Text/Untitled-3.xhtml" id="Untitled-3" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/Chapter-16.css" id="Chapter-16.css" media-type="text/css" />
+    <item href="Misc/Bookman-Demi.PFB" id="Bookman-Demi.PFB" media-type="application/x-font-type1" />
+    <item href="Fonts/Bookman-Light.ttf" id="Bookman-Light.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/Bookman-LightItalic.TTF" id="Bookman-LightItalic.TTF" media-type="application/x-font-ttf" />
+    <item href="Images/614.png" id="x614.png" media-type="image/png" />
+    <item href="Images/668.png" id="x668.png" media-type="image/png" />
+    <item href="Images/677.png" id="x677.png" media-type="image/png" />
+    <item href="Images/779.png" id="x779.png" media-type="image/png" />
+    <item href="Images/endangered%20grass_fmt.jpeg" id="endangered-grass_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/fig.%2016.1_fmt.jpeg" id="fig.-16.1_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/grasslands_fmt.jpeg" id="grasslands_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/rare%20species_fmt.jpeg" id="rare-species_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/red%20panda_fmt.jpeg" id="red-panda_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/kegy2cc.jpg" id="kegy2cc.jpg" media-type="image/jpeg" />
+    <item href="Images/License.jpg" id="License.jpg" media-type="image/jpeg" />
+    <item href="Images/Cover.png" id="Cover.png" media-type="image/png" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="Untitled-3" />
+  </spine>
+  <guide />
+</package>

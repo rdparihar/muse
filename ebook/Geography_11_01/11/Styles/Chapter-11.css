@@ -1,0 +1,322 @@
+body {
+font-family:"Arial";
+font-size:100%;
+line-height:150%;
+padding:2%;
+text-align:justify;
+}
+
+* {
+margin:0;
+padding:0;
+}
+h6
+{
+font-size:1.3em;
+color:#AA0078;
+text-transform:uppercase;
+}
+.image {
+text-align:center;
+}
+.author {
+text-align:right;
+}
+
+.chapterHeading {
+font-size:160%;
+color: gray;
+margin-bottom:20px;
+}
+h3
+{
+color:#AA0078;
+font-size:20px;
+padding:10px;
+}
+.chapterNumber {
+	font-size: 125%;
+	font-family: "Arial";
+}
+
+.lining_box
+{
+border:2px solid #AA0078;
+padding:15px;
+border-radius:15px;
+}
+.subHeading {
+	font-size:130%;
+	color:#AA0078;
+	margin-bottom:1%;
+	font-weight:bold;
+    text-align:center;
+}
+}
+
+.center {
+	text-align: center;
+}
+
+.excercise {
+text-transform:uppercase;
+font-weight:bold;
+margin:1% 0%;
+}
+
+.box{
+background-color:rgba(3, 78, 162, 0.4);
+padding: 5px 5px 5px 5px;
+margin: 5px 5px 5px 5px;
+}
+
+.activityBox{
+background-color:rgba(206, 19, 55, 0.4);
+padding: 5px 5px 5px 5px;
+margin: 5px 5px 5px 5px;
+}
+
+.newWordsBox{
+background-color:rgba(252, 187, 118, 0.4);
+padding: 5px 5px 5px 5px;
+margin: 5px 5px 5px 5px;
+}
+img
+{
+	margin-left: auto;
+    margin-right: auto;
+	display: block;
+	width:40%;
+}
+.img_left
+{
+	margin-left:0px;
+}
+ul
+{
+	margin-left:45px;
+}
+.caption, .para-style-override-12
+{
+	font-style: italic; 
+	font-size: 0.83em; 
+	color: #4D4D4D;
+	text-align:center;
+}
+p
+{
+	margin-top:10px;
+}
+h2
+{
+color:#fff;
+font-size:1.5em;
+background:#AA0078;
+padding:10px;
+}
+h4
+{
+	color:#d1640f;
+}
+.footer
+{
+	display:none;
+}
+table td
+{
+	padding:10px;
+}
+.conc
+{
+	color:#006699;
+}
+div.layout
+{
+  text-align: center;
+}
+div.chapter_pos
+
+{
+
+text-align: center;
+
+width: 96%;
+
+position:absolute;
+
+top:60%;
+
+font-weight:bold;
+
+font-size:28px;
+
+color:#fff;
+
+}
+.heading2, .heading1, .para-style-override-19
+{
+	font-weight:bold;
+}
+
+div.chapter_pos div
+
+{
+
+background:#444;
+
+padding:10px;
+
+width:35%;
+
+margin:auto;
+opacity:0.9;
+
+}
+
+div.chapter_pos div span
+
+{
+
+font-size:0.7em;
+
+color:#eaeaea;
+
+font-weight:normal;
+
+}
+@media only screen and (max-width: 767px) {
+
+div.chapter_pos
+
+{
+font-size:0.8em;
+line-height:120%;
+top:30%;
+}
+
+div.chapter_pos div span
+
+{
+
+font-size:0.7em;
+
+}
+   
+}
+body {
+font-family:"Arial";
+font-size:100%;
+line-height:150%;
+padding:2%;
+text-align:justify;
+}
+.cover_img_small
+
+{
+
+width:50%;
+
+}
+@media only screen and (max-width: 767px) {
+
+
+div.chapter_pos
+
+
+{
+
+top:30%;
+
+font-size:1em;
+
+}
+
+div.chapter_pos div
+
+
+{
+
+width:70%;
+
+
+
+}
+
+.cover_img_small
+
+{
+
+width:90%;
+
+}
+
+}
+.underline_txt
+
+{
+
+font-decoration:underline;
+
+}
+
+.bold_txt
+
+{
+
+font-weight:bold;
+
+}
+
+.center_element
+
+{
+
+margin:auto;
+
+}
+
+.italics_txt
+
+{
+
+font-style:italic;
+
+}
+
+.block_element
+
+{
+
+display:block;
+
+}
+
+.img_rt
+
+{
+
+float:right;
+
+clear:both;
+
+}
+
+.img_lft
+
+{
+
+float:left;
+
+}
+table
+{
+    width:100%;
+    border:1px solid #000;
+    border-collapse:collapse;
+}
+td
+{
+    padding:10px;
+    border:1px solid #000;
+    border-collapse:collapse;
+}

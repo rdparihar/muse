@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="">2014-12-23</dc:date>
+    <dc:language>en</dc:language>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-09-22</dc:date>
+    <meta content="Adobe InDesign" name="generator" />
+    <meta property="dcterms:modified">2014-12-23T12:00:00Z</meta>
+    <meta content="0.8.2" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item href="Text/Untitled-10.xhtml" id="Untitled-10" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/Chapter-10.css" id="Chapter-10.css" media-type="text/css" />
+    <item href="Misc/Bookman-Demi.PFB" id="Bookman-Demi.PFB" media-type="application/x-font-type1" />
+    <item href="Fonts/Bookman-Light.ttf" id="Bookman-Light.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/Bookman-LightItalic.TTF" id="Bookman-LightItalic.TTF" media-type="application/x-font-ttf" />
+    <item href="Images/696.png" id="x696.png" media-type="image/png" />
+    <item href="Images/718.png" id="x718.png" media-type="image/png" />
+    <item href="Images/768.png" id="x768.png" media-type="image/png" />
+    <item href="Images/769.png" id="x769.png" media-type="image/png" />
+    <item href="Images/770.png" id="x770.png" media-type="image/png" />
+    <item href="Images/771.png" id="x771.png" media-type="image/png" />
+    <item href="Images/772.png" id="x772.png" media-type="image/png" />
+    <item href="Images/782.png" id="x782.png" media-type="image/png" />
+    <item href="Images/816.png" id="x816.png" media-type="image/png" />
+    <item href="Images/872.png" id="x872.png" media-type="image/png" />
+    <item href="Images/899.png" id="x899.png" media-type="image/png" />
+    <item href="Images/956.png" id="x956.png" media-type="image/png" />
+    <item href="Images/977.png" id="x977.png" media-type="image/png" />
+    <item href="Images/987.png" id="x987.png" media-type="image/png" />
+    <item href="Images/fig.%2010.2_fmt.jpeg" id="fig.-10.2_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/fig.%2010.3_fmt.jpeg" id="fig.-10.3_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/kegy2cc.jpg" id="kegy2cc.jpg" media-type="image/jpeg" />
+    <item href="Images/License.jpg" id="License.jpg" media-type="image/jpeg" />
+    <item href="Images/8.png" id="x8.png" media-type="image/png" />
+    <item href="Images/9.png" id="x9.png" media-type="image/png" />
+    <item href="Images/Cover.png" id="Cover.png" media-type="image/png" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="Untitled-10" />
+  </spine>
+  <guide />
+</package>
